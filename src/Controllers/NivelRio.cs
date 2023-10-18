@@ -1,8 +1,8 @@
 ﻿using HtmlAgilityPack;
 using Microsoft.AspNetCore.Mvc;
-using NivelRio.Model;
+using NivelRio.src.Model;
 
-namespace NivelRio.Controllers
+namespace NivelRio.src.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

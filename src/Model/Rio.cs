@@ -1,4 +1,4 @@
-﻿namespace NivelRio.Model
+﻿namespace NivelRio.src.Model
 {
     public class Rio
     {
